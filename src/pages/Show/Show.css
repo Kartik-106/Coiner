@@ -1,0 +1,40 @@
+.Show-Header{
+    padding: 30px 0;
+    text-align: center;
+}
+.Show-Header img{
+    width: 80px;
+    border: 50%;
+    margin: 0 auto;
+
+}
+.Show-Header h2{
+    font-size: 32px;
+    margin-top: 15px;
+}
+.Show-Graph{
+    height: 200px;
+    width: 100%;
+    margin-bottom: 100px;
+}
+.Show-Detail{
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+h2{
+    margin-bottom: 20px;
+    font-size: 32px;
+    text-align: center;
+}
+.Show-Detail-Row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+    color: #666;
+}
+h3{
+    font-size: 16px;
+    color: #111;
+}
