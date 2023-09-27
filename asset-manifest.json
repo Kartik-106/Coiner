@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coiner/static/css/main.de056d76.css",
+    "main.js": "/coiner/static/js/main.8df0e132.js",
+    "index.html": "/coiner/index.html",
+    "main.de056d76.css.map": "/coiner/static/css/main.de056d76.css.map",
+    "main.8df0e132.js.map": "/coiner/static/js/main.8df0e132.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de056d76.css",
+    "static/js/main.8df0e132.js"
+  ]
+}
